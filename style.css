@@ -9,7 +9,8 @@ font-size: 350%;}
     margin-left: 40%;
 }
 
-h2 {font-size: 300%;
+h2 {font-size: 200%;
+    text-align: center;
 color: darkgreen;}
 
 #img2 {
@@ -17,17 +18,27 @@ color: darkgreen;}
     margin-left: 40%;
 
 }
-h3 { font-size: 180%;
+h3 { font-size: 200%;
+    text-align: center;
 color: orangered;}
  
- #img3 {
-    width: 18%;
+ #img3-2 {
+    width: 20%;
     margin-left: 40%;
  }
 
- h4 {font-size: 180%;
+ h4 {font-size: 190%;
+    text-align: center;
 color: cornflowerblue;}
 
 #img4 {
-     width: 25%;
-    margin-left:40% ;}
+     width: 35%;
+    margin-left:32% ;}
+
+    h5 {font-size: 120%;
+    text-align: center;
+color: black ;}
+
+h6{font-size: 140%;
+text-align: center;
+color: palevioletred;}
